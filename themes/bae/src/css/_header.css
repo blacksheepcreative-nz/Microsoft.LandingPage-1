@@ -1,5 +1,5 @@
 header {
-  background-image: url('/../images/background-image.png');
+  background-image: url('../images/background-image.png');
   background-size: cover;
   background-position: center right;
   padding-top: 240px;
@@ -19,7 +19,7 @@ header {
 }
 
 .waves {
-  background-image: url('/../images/waves.svg');
+  background-image: url('../images/waves.svg');
   margin-top: 334px;
   height: 246px;
   background-size: contain;

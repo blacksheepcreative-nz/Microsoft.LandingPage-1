@@ -600,7 +600,7 @@ footer .microsoft {
 
 main {
   background-color: #F9F9F9;
-  background-image: url('../images/graph.svg');
+  background-image: url('/../images/graph.svg');
   background-repeat: no-repeat;
   background-position: 90% 100%;
   margin-top: -2px;

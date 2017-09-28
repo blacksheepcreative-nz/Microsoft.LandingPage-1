@@ -19,13 +19,21 @@ module.exports = {
 		        	}
 		      	}
 		    },
-			{
-				test: /\.css$/,
-				use: ExtractTextPlugin.extract({
-					fallback: "style-loader",
-					use: 'css-loader?importLoaders=1!postcss-loader'
-				})
-			}
+		    {
+		    	test: /\.css$/,
+		    	use: ExtractTextPlugin.extract({
+		    			fallback: { loader: 'style-loader' },
+		    			use: [{
+		    				loader: 'css-loader',
+		    				options: {
+									importLoaders: 1,
+									url: false
+		    				}
+		    			}, {
+		    				loader: 'postcss-loader'
+		    			}]
+		    		})
+		    },
 		]
 	},
 

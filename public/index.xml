@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Microsoft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Sep 2017 14:02:42 +1300</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ride-sharing and self-driving relationships</title>
+      <link>http://example.org/stories/ride-sharing/</link>
+      <pubDate>Thu, 28 Sep 2017 14:02:42 +1300</pubDate>
+      
+      <guid>http://example.org/stories/ride-sharing/</guid>
+      <description>gfdgfdgdfgd</description>
+    </item>
+    
+    <item>
+      <title>The Progress of Artificial Intelligence</title>
+      <link>http://example.org/stories/progress-of-ai/</link>
+      <pubDate>Thu, 28 Sep 2017 14:02:42 +1300</pubDate>
+      
+      <guid>http://example.org/stories/progress-of-ai/</guid>
+      <description>gfdgfdgdfgd</description>
+    </item>
+    
+  </channel>
+</rss>

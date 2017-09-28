@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Noto+Serif:400,700">
   <link rel="manifest" href="{{ "manifest.json" | absURL }}">
   <meta name="theme-color" content="#f5f5f0"/>
-  <link href='{{ "dist/main.css" | absURL }}' rel='stylesheet' type="text/css" media="screen" />
+  <link href='{{ "dist/main.css" | relURL }}' rel='stylesheet' type="text/css" media="screen" />
   <body>
     {{ block "header" . }}
       {{ partial "header.html" .}}
