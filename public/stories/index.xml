@@ -12,12 +12,21 @@
     
     
     <item>
+      <title>Fatal workplace accidents</title>
+      <link>http://example.org/stories/fatal-workplace-accidents/</link>
+      <pubDate>Thu, 28 Sep 2017 14:02:42 +1300</pubDate>
+      
+      <guid>http://example.org/stories/fatal-workplace-accidents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ride-sharing and self-driving relationships</title>
       <link>http://example.org/stories/ride-sharing/</link>
       <pubDate>Thu, 28 Sep 2017 14:02:42 +1300</pubDate>
       
       <guid>http://example.org/stories/ride-sharing/</guid>
-      <description>gfdgfdgdfgd</description>
+      <description></description>
     </item>
     
     <item>
@@ -26,7 +35,16 @@
       <pubDate>Thu, 28 Sep 2017 14:02:42 +1300</pubDate>
       
       <guid>http://example.org/stories/progress-of-ai/</guid>
-      <description>gfdgfdgdfgd</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water Quality Report</title>
+      <link>http://example.org/stories/water-quality-report/</link>
+      <pubDate>Thu, 28 Sep 2017 14:02:42 +1300</pubDate>
+      
+      <guid>http://example.org/stories/water-quality-report/</guid>
+      <description></description>
     </item>
     
   </channel>

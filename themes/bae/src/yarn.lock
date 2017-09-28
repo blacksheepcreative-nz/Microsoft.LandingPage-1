@@ -1997,6 +1997,10 @@ minimist@^1.2.0:
   dependencies:
     minimist "0.0.8"
 
+modaal@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/modaal/-/modaal-0.3.1.tgz#91fc49367d168fe6322ef5bb38d797180c87455a"
+
 ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"

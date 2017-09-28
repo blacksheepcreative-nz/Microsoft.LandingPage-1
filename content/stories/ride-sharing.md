@@ -2,6 +2,7 @@
 title: "Ride-sharing and self-driving relationships"
 date: 2017-09-28T14:02:42+13:00
 link: "#"
+logo: "/images/Microsoft-logo.svg"
+class: "microsoft"
 ---
-
-gfdgfdgdfgd
+![Microsoft](/images/Microsoft-logo.svg)

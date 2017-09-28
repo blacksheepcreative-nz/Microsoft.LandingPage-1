@@ -25,5 +25,8 @@
     "postcss-loader": "^1.3.3",
     "style-loader": "^0.16.1",
     "webpack": "^2.3.3"
+  },
+  "dependencies": {
+    "modaal": "^0.3.1"
   }
 }

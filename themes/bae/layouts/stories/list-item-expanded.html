@@ -1,8 +1,8 @@
 <article class="data-story">
-  <a href="{{ .Params.Link }}">
+  <a href="{{ .Params.Link }}" class="article-link">
     <h3>{{ .Title }} <img src="{{"/images/link-icon.svg" | relURL }}"></h3>
-    <div>
-      <p>{{ .Content }}</p>
+    <div class="logo {{ .Params.Class }}">
+      <img src="{{ .Params.Logo }}" alt="{{ .Title }}">
     </div>
   </a>
 </article>

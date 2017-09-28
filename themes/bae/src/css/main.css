@@ -4,6 +4,7 @@
 @import '_header';
 @import '_footer';
 @import '_data-stories';
+@import '_modaal';
 
 .container {
   max-width: 2990px;
@@ -35,4 +36,14 @@ main {
   background-position: 90% 100%;
   margin-top: -2px;
   padding-bottom: 256px;
+}
+
+iframe {
+  min-height: 75vh;
+}
+
+.modaal-close {
+  position: absolute;
+  right: 0;
+  top: -65px;
 }

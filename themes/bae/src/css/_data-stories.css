@@ -9,16 +9,29 @@
 .data-story {
   background-color: white;
   border-left: 8px solid var(--mainColor);
+  box-shadow: 0 0 20px 0 rgba(0,0,0,0.15);
   display: flex;
   min-height: 534px;
   margin: 32px;
-  width: 30%;
+  width: calc(32% - 64px);
+
 
   & a {
     color: var(--black);
-    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     padding: 40px 52px;
     text-decoration: none;
+  }
+
+  & .logo img {
+    max-height: 142px;
+    vertical-align: bottom;
+  }
+
+  & .ap img {
+    max-height: 124px;
   }
 
   & h3 {
