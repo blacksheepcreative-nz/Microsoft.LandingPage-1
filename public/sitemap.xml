@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/casestudies/king-news/</loc>
+    <lastmod>2017-09-28T14:02:42+13:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/stories/ride-sharing/</loc>
     <lastmod>2017-09-28T14:02:42+13:00</lastmod>
   </url>
@@ -20,6 +25,12 @@
   <url>
     <loc>http://example.org/stories/water-quality-report/</loc>
     <lastmod>2017-09-28T14:02:42+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/casestudies/</loc>
+    <lastmod>2017-09-28T14:02:42+13:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
