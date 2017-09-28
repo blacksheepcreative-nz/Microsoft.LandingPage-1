@@ -9,10 +9,19 @@ public_folder: "images"
 collections: # A list of collections the CMS should be able to edit
   - name: "stories" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Story" # Used in the UI, ie.: "New Post"
-    folder: "site/content/stories" # The path to the folder where the documents are stored
+    folder: "content/stories" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Order", name: "order", widget: "string"}
+      - {label: "Link", name: "link", widget: "string"}
       - {label: "Image", name: "logo", widget: "image", required: false}
       - {label: "Class", name: "class", widget: "string", required: false}
+  - name: "casestudies" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Case Study" # Used in the UI, ie.: "New Post"
+    folder: "content/casestudies" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "order", widget: "string"}
+      - {label: "Link", name: "link", widget: "string"}
