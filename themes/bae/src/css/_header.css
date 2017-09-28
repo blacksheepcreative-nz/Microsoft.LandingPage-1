@@ -1,0 +1,28 @@
+header {
+  background-image: url('/../images/background-image.png');
+  background-size: cover;
+  background-position: center right;
+  padding-top: 240px;
+
+  & h1 {
+    color: white;
+    font-family: "Segoe UI";
+    font-size: 160px;
+    font-weight: normal;
+    margin: 0 0 88px;
+
+    & span {
+      color: #FCB713;
+      font-weight: 600;
+    }
+  }
+}
+
+.waves {
+  background-image: url('/../images/waves.svg');
+  margin-top: 334px;
+  height: 246px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+}

@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <main role="main">
+    <div class="container">
+      <h2>Data Stories</h2>
+	    <section class="data-stories">
+        {{ range (where .Data.Pages "Type" "stories") -}}
+          {{ .Render "list-item-expanded" }}
+        {{ end }}
+      </section>
+    </div>
+  </main>
+{{ end }}

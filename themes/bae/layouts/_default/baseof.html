@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="utf-8">
+  {{ partial "title" . }}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="{{ .Site.Params.AuthorName }}">
+  <meta name="description" content="{{ .Description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Noto+Serif:400,700">
+  <link rel="manifest" href="{{ "manifest.json" | absURL }}">
+  <meta name="theme-color" content="#f5f5f0"/>
+  <link href='{{ "dist/main.css" | absURL }}' rel='stylesheet' type="text/css" media="screen" />
+  <body>
+    {{ block "header" . }}
+      {{ partial "header.html" .}}
+    {{ end }}
+    <!-- Code that all your templates share, like a header -->
+
+    {{ block "main" . }}
+      <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+
+    {{ block "footer" . }}
+      {{ partial "footer.html" .}}
+    {{ end }}
+  </body>
+</html>

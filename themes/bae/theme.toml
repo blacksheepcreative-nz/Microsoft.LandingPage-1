@@ -1,0 +1,14 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Microsoft landing page"
+license = "MIT"
+licenselink = "https://github.com/BlackSheepCreative/Microsoft.LandingPage/blob/master/LICENSE.md"
+description = ""
+homepage = "http://baa.nz/"
+tags = []
+features = []
+min_version = "0.0.1"
+
+[author]
+  name = "Adrian"

@@ -1,0 +1,36 @@
+.data-stories {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 2126px;
+  margin: -32px;
+  width: 100%;
+}
+
+.data-story {
+  background-color: white;
+  border-left: 8px solid var(--mainColor);
+  display: flex;
+  min-height: 534px;
+  margin: 32px;
+  width: 30%;
+
+  & a {
+    color: var(--black);
+    display: block;
+    padding: 40px 52px;
+    text-decoration: none;
+  }
+
+  & h3 {
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 80px;
+    margin: 0;
+
+    & img {
+      height: 48px;
+      vertical-align: middle;
+      width: 48px;
+    }
+  }
+}

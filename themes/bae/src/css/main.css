@@ -1,0 +1,38 @@
+@import '_normalize';
+@import '_variables';
+@import '_font';
+@import '_header';
+@import '_footer';
+@import '_data-stories';
+
+.container {
+  max-width: 2990px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn {
+  background: none;
+  border: 8px solid #FCB713;
+  color: #FCB713;
+  font-size: 46px;
+  font-weight: 700;
+  padding: 46px 58px;
+  text-transform: uppercase;
+  transition: background-color 250ms, color 250ms;
+
+
+  &:hover {
+    background-color: #FCB713;
+    color: white;
+  }
+}
+
+main {
+  background-color: #F9F9F9;
+  background-image: url('/../images/graph.svg');
+  background-repeat: no-repeat;
+  background-position: 90% 100%;
+  margin-top: -2px;
+  padding-bottom: 256px;
+}
