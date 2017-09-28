@@ -1,48 +1,38 @@
-.data-stories {
-  display: flex;
-  flex-wrap: wrap;
-  margin: -32px;
-  width: 100%;
-}
-
-.data-story {
+.case-study {
   background-color: white;
   border-left: 8px solid var(--mainColor);
   box-shadow: 0 0 20px 0 rgba(0,0,0,0.15);
   display: flex;
   min-height: 534px;
-  margin: 32px;
-  width: calc(32% - 64px);
-
+  margin-bottom: 64px;
 
   & a {
-    color: var(--black);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    padding: 40px 52px;
+    padding: 78px 114px 98px;
     text-decoration: none;
-  }
-
-  & .logo img {
-    max-height: 142px;
-    vertical-align: bottom;
-  }
-
-  & .ap img {
-    max-height: 124px;
+    width: 100%;
   }
 
   & h3 {
+    color: var(--black);
     font-weight: 600;
     font-size: 60px;
     line-height: 80px;
     margin: 0;
+  }
+
+  & p {
+    color: var(--mainColor);
+    font-size: 46px;
+    font-weight: 700;
+    margin: 0;
+    text-transform: uppercase;
 
     & img {
-      height: 48px;
+      margin-left: 46px;
       vertical-align: middle;
-      width: 48px;
     }
   }
 }
