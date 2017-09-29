@@ -11,128 +11,11 @@
     
     
     <item>
-      <title>AP Virginia Elections</title>
-      <link>http://example.org/casestudies/ap-virginia-elections/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/casestudies/ap-virginia-elections/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>African American Homeownership</title>
-      <link>http://example.org/stories/african-american-homeownership/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/stories/african-american-homeownership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amazon Growth Story</title>
-      <link>http://example.org/stories/amazon-growth-story/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/stories/amazon-growth-story/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fatal workplace accidents</title>
-      <link>http://example.org/stories/fatal-workplace-accidents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/stories/fatal-workplace-accidents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>France TV</title>
-      <link>http://example.org/stories/france-tv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/stories/france-tv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Girls in STEM</title>
-      <link>http://example.org/stories/girls-in-stem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/stories/girls-in-stem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>How KING 5 News created an Interactive Data Story</title>
       <link>http://example.org/casestudies/king-news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/casestudies/king-news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IDG Cloud Intelligence</title>
-      <link>http://example.org/stories/idg-cloud-intelligence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/stories/idg-cloud-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interstate population migration</title>
-      <link>http://example.org/stories/interstate-population-migration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/stories/interstate-population-migration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KING 5</title>
-      <link>http://example.org/stories/king-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/stories/king-5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Official Microsoft Blog: AP collaboration</title>
-      <link>http://example.org/casestudies/official-microsoft-blog-ap-collaboration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/casestudies/official-microsoft-blog-ap-collaboration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productivity Survey</title>
-      <link>http://example.org/stories/productivity-survey/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/stories/productivity-survey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ride-sharing and self-driving relationships</title>
-      <link>http://example.org/stories/ride-sharing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/stories/ride-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seattle Traffic Boom</title>
-      <link>http://example.org/stories/seattle-traffic-boom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/stories/seattle-traffic-boom/</guid>
       <description></description>
     </item>
     
@@ -146,11 +29,74 @@
     </item>
     
     <item>
-      <title>U.S. Open Golf Story</title>
-      <link>http://example.org/stories/us-open-golf-story/</link>
+      <title>AP Virginia Elections</title>
+      <link>http://example.org/casestudies/ap-virginia-elections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/stories/us-open-golf-story/</guid>
+      <guid>http://example.org/casestudies/ap-virginia-elections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ride-sharing and self-driving relationships</title>
+      <link>http://example.org/stories/ride-sharing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/ride-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Official Microsoft Blog: AP collaboration</title>
+      <link>http://example.org/casestudies/official-microsoft-blog-ap-collaboration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/casestudies/official-microsoft-blog-ap-collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water Quality Report</title>
+      <link>http://example.org/stories/water-quality-report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/water-quality-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fatal workplace accidents</title>
+      <link>http://example.org/stories/fatal-workplace-accidents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/fatal-workplace-accidents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity Survey</title>
+      <link>http://example.org/stories/productivity-survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/productivity-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Girls in STEM</title>
+      <link>http://example.org/stories/girls-in-stem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/girls-in-stem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IDG Cloud Intelligence</title>
+      <link>http://example.org/stories/idg-cloud-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/idg-cloud-intelligence/</guid>
       <description></description>
     </item>
     
@@ -164,11 +110,65 @@
     </item>
     
     <item>
-      <title>Water Quality Report</title>
-      <link>http://example.org/stories/water-quality-report/</link>
+      <title>France TV</title>
+      <link>http://example.org/stories/france-tv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/stories/water-quality-report/</guid>
+      <guid>http://example.org/stories/france-tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazon Growth Story</title>
+      <link>http://example.org/stories/amazon-growth-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/amazon-growth-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interstate population migration</title>
+      <link>http://example.org/stories/interstate-population-migration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/interstate-population-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seattle Traffic Boom</title>
+      <link>http://example.org/stories/seattle-traffic-boom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/seattle-traffic-boom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>African American Homeownership</title>
+      <link>http://example.org/stories/african-american-homeownership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/african-american-homeownership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U.S. Open Golf Story</title>
+      <link>http://example.org/stories/us-open-golf-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/us-open-golf-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KING 5</title>
+      <link>http://example.org/stories/king-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/king-5/</guid>
       <description></description>
     </item>
     

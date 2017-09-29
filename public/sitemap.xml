@@ -3,7 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/casestudies/king-news/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/progress-of-ai/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/casestudies/ap-virginia-elections/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/ride-sharing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/casestudies/official-microsoft-blog-ap-collaboration/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/water-quality-report/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/fatal-workplace-accidents/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/productivity-survey/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/girls-in-stem/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/idg-cloud-intelligence/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/virginia-gubernatorial-primaries/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/france-tv/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/amazon-growth-story/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/interstate-population-migration/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/seattle-traffic-boom/</loc>
   </url>
   
   <url>
@@ -11,7 +67,11 @@
   </url>
   
   <url>
-    <loc>http://example.org/stories/amazon-growth-story/</loc>
+    <loc>http://example.org/stories/us-open-golf-story/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/king-5/</loc>
   </url>
   
   <url>
@@ -25,52 +85,8 @@
   </url>
   
   <url>
-    <loc>http://example.org/stories/fatal-workplace-accidents/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stories/france-tv/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stories/girls-in-stem/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/casestudies/king-news/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stories/idg-cloud-intelligence/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stories/interstate-population-migration/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stories/king-5/</loc>
-  </url>
-  
-  <url>
     <loc>http://example.org/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/casestudies/official-microsoft-blog-ap-collaboration/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stories/productivity-survey/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stories/ride-sharing/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stories/seattle-traffic-boom/</loc>
   </url>
   
   <url>
@@ -81,22 +97,6 @@
   <url>
     <loc>http://example.org/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stories/progress-of-ai/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stories/us-open-golf-story/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stories/virginia-gubernatorial-primaries/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stories/water-quality-report/</loc>
   </url>
   
 </urlset>

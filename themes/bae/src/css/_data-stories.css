@@ -34,6 +34,18 @@
     max-height: 124px;
   }
 
+  & .geekwire img {
+    max-height: 124px;
+  }
+
+  & .k5 img {
+    max-height: 68px;
+  }
+
+  & .cio img {
+    max-height: 116px;
+  }
+
   & h3 {
     font-weight: 600;
     font-size: 60px;
