@@ -449,19 +449,19 @@ template {
 @font-face {
   font-family: "Segoe UI";
   font-weight: "Normal";
-  src: url("/fonts/segoeui-normal.ttf") format("ttf");
+  src: url("/fonts/segoeui-normal.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Segoe UI";
   font-weight: 700;
-  src: url("/fonts/segoeui-negreta.ttf") format("ttf");
+  src: url("/fonts/segoeui-negreta.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Segoe UI";
   font-weight: 600;
-  src: url("/fonts/segoeui-semi-bold.ttf") format("ttf");
+  src: url("/fonts/segoeui-semi-bold.ttf") format("truetype");
 }
 
 body {
