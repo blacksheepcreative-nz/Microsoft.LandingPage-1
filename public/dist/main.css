@@ -570,6 +570,7 @@ footer .microsoft {
           justify-content: space-between;
   padding: 40px 52px;
   text-decoration: none;
+  width: 100%;
 }
 
 .data-story .logo img {
