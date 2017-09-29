@@ -499,9 +499,9 @@ header h1 span {
 .waves {
   background-image: url('../images/waves.svg');
   margin-top: 334px;
-  height: 246px;
-  background-size: contain;
+  height: 312px;
   background-repeat: no-repeat;
+  background-size: 104%;
   background-position: bottom center;
 }
 

@@ -449,23 +449,23 @@ template {
 @font-face {
   font-family: "Segoe UI";
   font-weight: "Normal";
-  src: url("/fonts/segoeui-normal.ttf") format("ttf");
+  src: url("/fonts/segoeui-normal.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Segoe UI";
   font-weight: 700;
-  src: url("/fonts/segoeui-negreta.ttf") format("ttf");
+  src: url("/fonts/segoeuib-negreta.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Segoe UI";
   font-weight: 600;
-  src: url("/fonts/segoeui-semi-bold.ttf") format("ttf");
+  src: url("/fonts/segoeuisb-semi-bold.ttf") format("truetype");
 }
 
 body {
-  font-family: "Segoe UI";
+  font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -486,7 +486,6 @@ header {
 
 header h1 {
   color: white;
-  font-family: "Segoe UI";
   font-size: 160px;
   font-weight: normal;
   margin: 0 0 88px;
@@ -500,9 +499,9 @@ header h1 span {
 .waves {
   background-image: url('../images/waves.svg');
   margin-top: 334px;
-  height: 246px;
-  background-size: contain;
+  height: 312px;
   background-repeat: no-repeat;
+  background-size: 104%;
   background-position: bottom center;
 }
 
