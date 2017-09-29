@@ -35,7 +35,7 @@
   }
 
   & .geekwire img {
-    max-height: 124px;
+    max-height: 68px;
   }
 
   & .k5 img {
@@ -43,7 +43,7 @@
   }
 
   & .cio img {
-    max-height: 116px;
+    max-width: 160px;
   }
 
   & .no-image {
