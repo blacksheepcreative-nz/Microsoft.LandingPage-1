@@ -582,7 +582,7 @@ footer .microsoft {
 }
 
 .data-story .geekwire img {
-  max-height: 124px;
+  max-height: 68px;
 }
 
 .data-story .k5 img {
@@ -590,7 +590,11 @@ footer .microsoft {
 }
 
 .data-story .cio img {
-  max-height: 116px;
+  max-width: 160px;
+}
+
+.data-story .no-image {
+  display: none;
 }
 
 .data-story h3 {
