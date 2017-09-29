@@ -455,13 +455,13 @@ template {
 @font-face {
   font-family: "Segoe UI";
   font-weight: 700;
-  src: url("/fonts/segoeui-negreta.ttf") format("truetype");
+  src: url("/fonts/segoeuib-negreta.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Segoe UI";
   font-weight: 600;
-  src: url("/fonts/segoeui-semi-bold.ttf") format("truetype");
+  src: url("/fonts/segoeuisb-semi-bold.ttf") format("truetype");
 }
 
 body {
