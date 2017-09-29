@@ -3,7 +3,7 @@ backend:
   repo: adrhumphreys/Microsoft.LandingPage # Path to your Github repository
   branch: master # Branch to update
 
-media_folder: "site/static/images" # Folder where user uploaded files should go
+media_folder: "site/public/images" # Folder where user uploaded files should go
 public_folder: "images"
 
 collections: # A list of collections the CMS should be able to edit

@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/casestudies/ap-virginia-elections/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/casestudies/</loc>
     <priority>0</priority>
   </url>
@@ -17,12 +21,24 @@
   </url>
   
   <url>
+    <loc>http://example.org/stories/girls-in-stem/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/casestudies/king-news/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/idg-cloud-intelligence/</loc>
   </url>
   
   <url>
     <loc>http://example.org/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/casestudies/official-microsoft-blog-ap-collaboration/</loc>
   </url>
   
   <url>
