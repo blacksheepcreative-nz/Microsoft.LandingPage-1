@@ -4,8 +4,7 @@ var webpack = require("webpack");
 
 module.exports = {
 	entry: {
-		app: './js/main.js',
-		modaal: './js/modaal.js'
+		app: './js/main.js'
 	},
 	module: {
 		rules: [
