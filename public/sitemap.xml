@@ -7,6 +7,14 @@
   </url>
   
   <url>
+    <loc>http://example.org/stories/african-american-homeownership/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/amazon-growth-story/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/casestudies/</loc>
     <priority>0</priority>
   </url>
@@ -21,6 +29,10 @@
   </url>
   
   <url>
+    <loc>http://example.org/stories/france-tv/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/stories/girls-in-stem/</loc>
   </url>
   
@@ -30,6 +42,14 @@
   
   <url>
     <loc>http://example.org/stories/idg-cloud-intelligence/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/interstate-population-migration/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/king-5/</loc>
   </url>
   
   <url>
@@ -50,6 +70,10 @@
   </url>
   
   <url>
+    <loc>http://example.org/stories/seattle-traffic-boom/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/stories/</loc>
     <priority>0</priority>
   </url>
@@ -61,6 +85,14 @@
   
   <url>
     <loc>http://example.org/stories/progress-of-ai/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/us-open-golf-story/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/virginia-gubernatorial-primaries/</loc>
   </url>
   
   <url>

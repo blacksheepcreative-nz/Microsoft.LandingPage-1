@@ -20,11 +20,38 @@
     </item>
     
     <item>
+      <title>African American Homeownership</title>
+      <link>http://example.org/stories/african-american-homeownership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/african-american-homeownership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazon Growth Story</title>
+      <link>http://example.org/stories/amazon-growth-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/amazon-growth-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fatal workplace accidents</title>
       <link>http://example.org/stories/fatal-workplace-accidents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/stories/fatal-workplace-accidents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>France TV</title>
+      <link>http://example.org/stories/france-tv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/france-tv/</guid>
       <description></description>
     </item>
     
@@ -56,6 +83,24 @@
     </item>
     
     <item>
+      <title>Interstate population migration</title>
+      <link>http://example.org/stories/interstate-population-migration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/interstate-population-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KING 5</title>
+      <link>http://example.org/stories/king-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/king-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Official Microsoft Blog: AP collaboration</title>
       <link>http://example.org/casestudies/official-microsoft-blog-ap-collaboration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -83,11 +128,38 @@
     </item>
     
     <item>
+      <title>Seattle Traffic Boom</title>
+      <link>http://example.org/stories/seattle-traffic-boom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/seattle-traffic-boom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Progress of Artificial Intelligence</title>
       <link>http://example.org/stories/progress-of-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/stories/progress-of-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U.S. Open Golf Story</title>
+      <link>http://example.org/stories/us-open-golf-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/us-open-golf-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virginia Gubernatorial Primaries</title>
+      <link>http://example.org/stories/virginia-gubernatorial-primaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/virginia-gubernatorial-primaries/</guid>
       <description></description>
     </item>
     
