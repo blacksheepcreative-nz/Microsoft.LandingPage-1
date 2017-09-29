@@ -4,7 +4,7 @@
       <div class="data-stories-container">
         <h2>Data Stories</h2>
   	    <section class="data-stories">
-          {{ range (where .Data.Pages "Type" "stories").ByParam "order" }}
+          {{ range (where .Data.Pages "Type" "stories") }}
             {{ .Render "list-item-expanded" }}
           {{ end }}
         </section>
@@ -12,7 +12,7 @@
       <div class="case-studies-container">
         <h2>Case studies</h2>
         <section class="case-studies">
-          {{ range (where .Data.Pages "Type" "casestudies").ByParam "order" }}
+          {{ range (where .Data.Pages "Type" "casestudies") }}
             {{ .Render "list-item-expanded" }}
           {{ end }}
         </section>
