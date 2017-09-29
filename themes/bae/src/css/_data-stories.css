@@ -46,6 +46,10 @@
     max-height: 116px;
   }
 
+  & .no-image {
+    display: none;
+  }
+
   & h3 {
     font-weight: 600;
     font-size: 60px;

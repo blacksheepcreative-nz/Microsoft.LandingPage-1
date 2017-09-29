@@ -593,6 +593,10 @@ footer .microsoft {
   max-height: 116px;
 }
 
+.data-story .no-image {
+  display: none;
+}
+
 .data-story h3 {
   font-weight: 600;
   font-size: 60px;
