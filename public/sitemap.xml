@@ -11,11 +11,11 @@
   </url>
   
   <url>
-    <loc>http://example.org/casestudies/ap-virginia-elections/</loc>
+    <loc>http://example.org/stories/ride-sharing/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/stories/ride-sharing/</loc>
+    <loc>http://example.org/casestudies/ap-virginia-elections/</loc>
   </url>
   
   <url>
@@ -72,6 +72,18 @@
   
   <url>
     <loc>http://example.org/stories/king-5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/where-the-software-industry-is-growing-outside-silicon-valley/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/junk-news-and-russian-misinformation-flooded-twitter-during-the-2016-election/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stories/here-are-all-of-amazons-acquisitions-before-whole-foods/</loc>
   </url>
   
   <url>

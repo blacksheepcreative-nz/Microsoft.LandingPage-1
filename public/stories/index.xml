@@ -47,7 +47,7 @@
     </item>
     
     <item>
-      <title>Productivity Survey</title>
+      <title>Mastering your productivity</title>
       <link>http://example.org/stories/productivity-survey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -56,7 +56,7 @@
     </item>
     
     <item>
-      <title>Girls in STEM</title>
+      <title>European Girls in STEM</title>
       <link>http://example.org/stories/girls-in-stem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -65,7 +65,7 @@
     </item>
     
     <item>
-      <title>IDG Cloud Intelligence</title>
+      <title>IDG Cloud Intelligence Survey</title>
       <link>http://example.org/stories/idg-cloud-intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -83,7 +83,7 @@
     </item>
     
     <item>
-      <title>France TV</title>
+      <title>France TV &amp; Microsoft join forces to analyze live election results</title>
       <link>http://example.org/stories/france-tv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -92,7 +92,7 @@
     </item>
     
     <item>
-      <title>Amazon Growth Story</title>
+      <title>United States of Amazon: Where the tech giant is growing now</title>
       <link>http://example.org/stories/amazon-growth-story/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -137,11 +137,38 @@
     </item>
     
     <item>
-      <title>KING 5</title>
+      <title>KING 5 Primary Night Coverage powered by Microsoft Power BI</title>
       <link>http://example.org/stories/king-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/stories/king-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where the software industry is growing outside Silicon Valley</title>
+      <link>http://example.org/stories/where-the-software-industry-is-growing-outside-silicon-valley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/where-the-software-industry-is-growing-outside-silicon-valley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junk news and Russian misinformation flooded Twitter during the 2016 election</title>
+      <link>http://example.org/stories/junk-news-and-russian-misinformation-flooded-twitter-during-the-2016-election/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/junk-news-and-russian-misinformation-flooded-twitter-during-the-2016-election/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Here are all of Amazon&#39;s acquisitions before Whole Foods</title>
+      <link>http://example.org/stories/here-are-all-of-amazons-acquisitions-before-whole-foods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stories/here-are-all-of-amazons-acquisitions-before-whole-foods/</guid>
       <description></description>
     </item>
     
