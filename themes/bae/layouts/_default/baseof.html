@@ -26,5 +26,15 @@
 
     <!-- <script src='{{ "dist/modaal.bundle.js" | relURL }}'></script> -->
     <!-- <script src='{{ "dist/app.bundle.js" | relURL }}'></script> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script defer="true">
+      $( document ).ready(function() {
+        $("#button").click(function() {
+            $('html, body').animate({
+                scrollTop: $("main").offset().top
+            }, 1500);
+        });
+      });
+    </script>
   </body>
 </html>
