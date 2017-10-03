@@ -576,7 +576,7 @@ footer .microsoft {
 .data-story .logo img {
   max-height: 71px;
   vertical-align: bottom;
-  width: 100%;
+  max-width: 100%;
 }
 
 .data-story .ap img {
