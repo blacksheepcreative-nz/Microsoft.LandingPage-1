@@ -1,5 +1,5 @@
 <article class="data-story">
-  <a href="{{ .Params.Link }}" class="article-link" target="_blank">
+  <a href="{{ .Params.Link }}" class="article-link" target="_tile{{ .Params.Order }}">
     <h3>{{ .Title }} <img src="{{"/images/link-icon.svg" | relURL }}"></h3>
     <div class="logo {{ .Params.Class }}">
       <img src="{{ .Params.Logo }}" alt="{{ .Title }}">
