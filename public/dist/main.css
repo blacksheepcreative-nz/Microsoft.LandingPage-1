@@ -465,41 +465,42 @@ template {
 }
 
 body {
-  font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans",
+    "Helvetica Neue", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h2 {
   color: #FCB713;
-  font-size: 110px;
+  font-size: 55px;
   font-weight: 600;
   margin-top: 0;
 }
 
 header {
-  background-image: url('../images/background-image.png');
+  background-image: url("../images/background-image.png");
   background-size: cover;
   background-position: center right;
-  padding-top: 240px
+  padding-top: 120px
 }
 
 header h1 {
   color: white;
-  font-size: 160px;
+  font-size: 80px;
   font-weight: normal;
-  margin: 0 0 88px;
+  margin: 0 0 45px;
 }
 
 header h1 span {
-  color: #FCB713;
+  color: #fcb713;
   font-weight: 600;
 }
 
 .waves {
-  background-image: url('../images/waves.svg');
-  margin-top: 334px;
-  height: 312px;
+  background-image: url("../images/waves.svg");
+  margin-top: 167px;
+  height: 156px;
   background-repeat: no-repeat;
   background-size: 104%;
   background-position: bottom center;
@@ -507,7 +508,7 @@ header h1 span {
 
 footer {
   background-color: #D2D2D2;
-  height: 220px
+  height: 110px
 }
 
 footer .container {
@@ -525,12 +526,12 @@ footer .container {
 }
 
 footer .power-bi {
-  height: 118px;
-  width: 115px;
+  height: 59px;
+  width: 57px;
 }
 
 footer .microsoft {
-  width: 352px;
+  width: 176px;
 }
 
 .data-stories {
@@ -539,20 +540,20 @@ footer .microsoft {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  margin: -32px;
+  margin: -16px;
   width: 100%;
 }
 
 .data-story {
   background-color: white;
-  border-left: 8px solid #FCB713;
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, .15);
+  border-left: 4px solid #FCB713;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, .15);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  min-height: 534px;
-  margin: 32px;
-  width: calc(32% - 64px)
+  min-height: 267px;
+  margin: 16px;
+  width: calc(32% - 32px)
 }
 
 .data-story a {
@@ -567,30 +568,31 @@ footer .microsoft {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  padding: 40px 52px;
+  padding: 20px 26px;
   text-decoration: none;
   width: 100%;
 }
 
 .data-story .logo img {
-  max-height: 142px;
+  max-height: 71px;
   vertical-align: bottom;
+  width: 100%;
 }
 
 .data-story .ap img {
-  max-height: 124px;
+  max-height: 71px;
 }
 
 .data-story .geekwire img {
-  max-height: 68px;
+  max-height: 34px;
 }
 
 .data-story .k5 img {
-  max-height: 68px;
+  max-height: 34px;
 }
 
 .data-story .cio img {
-  max-width: 160px;
+  max-width: 80px;
 }
 
 .data-story .no-image {
@@ -599,26 +601,26 @@ footer .microsoft {
 
 .data-story h3 {
   font-weight: 600;
-  font-size: 60px;
-  line-height: 80px;
+  font-size: 30px;
+  line-height: 40px;
   margin: 0;
 }
 
 .data-story h3 img {
-  height: 48px;
+  height: 24px;
   vertical-align: middle;
-  width: 48px;
+  width: 24px;
 }
 
 .case-study {
   background-color: white;
-  border-left: 8px solid #FCB713;
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, .15);
+  border-left: 4px solid #FCB713;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, .15);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  min-height: 534px;
-  margin-bottom: 64px
+  min-height: 267px;
+  margin-bottom: 32px
 }
 
 .case-study a {
@@ -632,7 +634,7 @@ footer .microsoft {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  padding: 78px 114px 98px;
+  padding: 39px 57px 49px;
   text-decoration: none;
   width: 100%;
 }
@@ -640,21 +642,21 @@ footer .microsoft {
 .case-study h3 {
   color: #414141;
   font-weight: 600;
-  font-size: 60px;
-  line-height: 80px;
+  font-size: 30px;
+  line-height: 40px;
   margin: 0;
 }
 
 .case-study p {
   color: #FCB713;
-  font-size: 46px;
+  font-size: 23px;
   font-weight: 700;
   margin: 0;
   text-transform: uppercase;
 }
 
 .case-study p img {
-  margin-left: 46px;
+  margin-left: 23px;
   vertical-align: middle;
 }
 
@@ -1263,18 +1265,26 @@ footer .microsoft {
 }
 
 .btn {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   background: none;
-  border: 8px solid #FCB713;
-  color: #FCB713;
-  font-size: 46px;
+  border: 4px solid #fcb713;
+  color: #fcb713;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  line-height: 73px;
+  font-size: 23px;
   font-weight: 700;
-  padding: 46px 58px;
+  padding: 0 29px;
   text-transform: uppercase;
   transition: background-color 250ms, color 250ms
 }
 
 .btn svg {
-  margin-left: 17px;
+  margin-left: 8px;
+  max-width: 23px;
 }
 
 .btn path {
@@ -1282,7 +1292,7 @@ footer .microsoft {
 }
 
 .btn:hover {
-  background-color: #FCB713;
+  background-color: #fcb713;
   color: white;
 }
 
@@ -1291,8 +1301,8 @@ footer .microsoft {
 }
 
 main {
-  background-color: #F9F9F9;
-  background-image: url('../images/graph.svg');
+  background-color: #f9f9f9;
+  background-image: url("../images/graph.svg");
   background-repeat: no-repeat;
   background-position: 90% 100%;
   margin-top: -2px;

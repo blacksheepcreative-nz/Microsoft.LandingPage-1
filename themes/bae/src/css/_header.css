@@ -1,26 +1,26 @@
 header {
-  background-image: url('../images/background-image.png');
+  background-image: url("../images/background-image.png");
   background-size: cover;
   background-position: center right;
-  padding-top: 240px;
+  padding-top: 120px;
 
   & h1 {
     color: white;
-    font-size: 160px;
+    font-size: 80px;
     font-weight: normal;
-    margin: 0 0 88px;
+    margin: 0 0 45px;
 
     & span {
-      color: #FCB713;
+      color: #fcb713;
       font-weight: 600;
     }
   }
 }
 
 .waves {
-  background-image: url('../images/waves.svg');
-  margin-top: 334px;
-  height: 312px;
+  background-image: url("../images/waves.svg");
+  margin-top: 167px;
+  height: 156px;
   background-repeat: no-repeat;
   background-size: 104%;
   background-position: bottom center;

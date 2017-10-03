@@ -1,6 +1,6 @@
 footer {
   background-color: var(--footer);
-  height: 220px;
+  height: 110px;
 
   & .container {
     -ms-align-items: center;
@@ -11,11 +11,11 @@ footer {
   }
 
   & .power-bi {
-    height: 118px;
-    width: 115px;
+    height: 59px;
+    width: 57px;
   }
 
   & .microsoft {
-    width: 352px;
+    width: 176px;
   }
 }

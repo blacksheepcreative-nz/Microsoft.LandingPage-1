@@ -1,16 +1,16 @@
 .case-study {
   background-color: white;
-  border-left: 8px solid var(--mainColor);
-  box-shadow: 0 0 20px 0 rgba(0,0,0,0.15);
+  border-left: 4px solid var(--mainColor);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
   display: flex;
-  min-height: 534px;
-  margin-bottom: 64px;
+  min-height: 267px;
+  margin-bottom: 32px;
 
   & a {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    padding: 78px 114px 98px;
+    padding: 39px 57px 49px;
     text-decoration: none;
     width: 100%;
   }
@@ -18,20 +18,20 @@
   & h3 {
     color: var(--black);
     font-weight: 600;
-    font-size: 60px;
-    line-height: 80px;
+    font-size: 30px;
+    line-height: 40px;
     margin: 0;
   }
 
   & p {
     color: var(--mainColor);
-    font-size: 46px;
+    font-size: 23px;
     font-weight: 700;
     margin: 0;
     text-transform: uppercase;
 
     & img {
-      margin-left: 46px;
+      margin-left: 23px;
       vertical-align: middle;
     }
   }

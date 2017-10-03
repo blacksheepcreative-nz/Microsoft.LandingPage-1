@@ -1,11 +1,11 @@
-@import '_normalize';
-@import '_variables';
-@import '_font';
-@import '_header';
-@import '_footer';
-@import '_data-stories';
-@import '_case-studies';
-@import '_modaal';
+@import "_normalize";
+@import "_variables";
+@import "_font";
+@import "_header";
+@import "_footer";
+@import "_data-stories";
+@import "_case-studies";
+@import "_modaal";
 
 .container {
   max-width: 84vw;
@@ -27,17 +27,21 @@
 }
 
 .btn {
+  align-items: center;
   background: none;
-  border: 8px solid #FCB713;
-  color: #FCB713;
-  font-size: 46px;
+  border: 4px solid #fcb713;
+  color: #fcb713;
+  display: flex;
+  line-height: 73px;
+  font-size: 23px;
   font-weight: 700;
-  padding: 46px 58px;
+  padding: 0 29px;
   text-transform: uppercase;
   transition: background-color 250ms, color 250ms;
 
   & svg {
-    margin-left: 17px;
+    margin-left: 8px;
+    max-width: 23px;
   }
 
   & path {
@@ -45,7 +49,7 @@
   }
 
   &:hover {
-    background-color: #FCB713;
+    background-color: #fcb713;
     color: white;
 
     & path {
@@ -55,8 +59,8 @@
 }
 
 main {
-  background-color: #F9F9F9;
-  background-image: url('../images/graph.svg');
+  background-color: #f9f9f9;
+  background-image: url("../images/graph.svg");
   background-repeat: no-repeat;
   background-position: 90% 100%;
   margin-top: -2px;
