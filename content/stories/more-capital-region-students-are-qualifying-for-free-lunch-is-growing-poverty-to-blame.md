@@ -6,8 +6,9 @@ weight: '1'
 link: >-
   http://www.timesunion.com/local/article/More-Capital-Region-students-are-qualifying-for-12497790.php
 logo: /images/timesunion.png
-class: ap
+class: cio
 ---
+
 
 
 
