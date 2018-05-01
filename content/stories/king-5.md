@@ -5,8 +5,9 @@ weight: '1'
 link: >-
   http://www.king5.com/news/local/king-5-primary-night-coverage-powered-by-microsoft-technology/204436206
 logo: /images/k5.jpg
-class: cio
+class: recode
 ---
+
 
 
 
