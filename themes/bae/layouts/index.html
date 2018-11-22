@@ -10,7 +10,7 @@
         </section>
       </div>
       <div class="case-studies-container">
-        <h2>Case studies</h2>
+        <h2>Case studies, announcements & resources:</h2>
         <section class="case-studies">
           {{ range (where .Data.Pages "Type" "casestudies").ByWeight }}
             {{ .Render "list-item-expanded" }}
